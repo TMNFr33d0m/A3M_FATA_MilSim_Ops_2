@@ -195,7 +195,7 @@ class Mission
 	randomSeed=17746;
 	class Intel
 	{
-		briefingName="FATA Presence Patrol Ops 2";
+		briefingName="A3M FATA MilSim Ops 2";
 		overviewText="Patrol FATA, completing missions as assigned and eliminating the enemy ISIS and Insurgent forces in the AO. ";
 		resistanceWest=0;
 		resistanceEast=1;
@@ -853,7 +853,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={2315.073,20.104424,312.23999};
+					position[]={2090.7656,20.104599,292.22351};
 					class args
 					{
 						items=4;
@@ -977,7 +977,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={2332.6096,20.093504,312.87476};
+					position[]={2108.3022,20.104599,292.85828};
 					azimut=-16.698517;
 					id=37;
 					side="LOGIC";
@@ -5468,7 +5468,7 @@ class Mission
 	};
 	class Markers
 	{
-		items=12;
+		items=13;
 		class Item0
 		{
 			position[]={2206.4482,20.104599,322.79907};
@@ -5571,6 +5571,13 @@ class Mission
 			type="loc_Hospital";
 			colorName="ColorWEST";
 			angle=-178.39096;
+		};
+		class Item12
+		{
+			position[]={2022.3667,20.104599,220.99243};
+			name="SYFT";
+			text="Supply Yard";
+			type="mil_pickup";
 		};
 	};
 	class Sensors

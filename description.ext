@@ -34,7 +34,7 @@ author = "S-4 Unit";
 onLoadMission = "Welcome to Afghanistan. U.S. Forces are conducting presence operations in the AO. Stay Sharp.";
 onLoadIntroTime = true;
 onLoadMissionTime = true;
-onLoadName = FATA Patrol Ops;
+onLoadName = FATA MilSim Ops;
 loadScreen = "images\Loadimg.jpg";
 
 //--- General Settings
