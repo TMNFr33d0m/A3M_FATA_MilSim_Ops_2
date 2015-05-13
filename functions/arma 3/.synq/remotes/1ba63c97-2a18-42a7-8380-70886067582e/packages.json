@@ -1,0 +1,3524 @@
+{
+	"packages": {
+		"@1stsfguniforms": [
+			"1.0"
+		],
+		"@31stwwa2": [
+			"0.99.3"
+		],
+		"@3lb_f22": [
+			"0.6.0"
+		],
+		"@4d_cvrt": [
+			"0.1-alpha"
+		],
+		"@a164_wipeout": [
+			"0.8",
+			"1.0",
+			"2.0",
+			"2.1"
+		],
+		"@a3_bearb_ch": [
+			"0.0.1",
+			"3.0"
+		],
+		"@a3_daa": [
+			"2.0",
+			"3.0",
+			"4.0"
+		],
+		"@a3_dma_pack1": [
+			"0.0.1"
+		],
+		"@a3_freeaim_fix": [
+			"0.3",
+			"0.4"
+		],
+		"@a3_osbih": [
+			"0.0.1"
+		],
+		"@a319": [
+			"1.3"
+		],
+		"@a3a_units": [
+			"0.0.1"
+		],
+		"@a3c_nametag": [
+			"1.2",
+			"1.2.0.1",
+			"1.2.0.2"
+		],
+		"@a3mp": [
+			"1.4"
+		],
+		"@a3mp_ap": [
+			"1.1"
+		],
+		"@a3tools": [
+			"1.4",
+			"1.4.0.1"
+		],
+		"@a3units_extended": [
+			"0.0.1"
+		],
+		"@aaf_desert": [
+			"2.0"
+		],
+		"@aaf_desert_replacement": [
+			"2.0"
+		],
+		"@aaw_ace": [
+			"0.0.1"
+		],
+		"@aaw_core": [
+			"0.0.1"
+		],
+		"@aaw_infantryweapons": [
+			"3.0-beta"
+		],
+		"@aaw_vanilla": [
+			"0.0.1"
+		],
+		"@ac_130u": [
+			"1.2"
+		],
+		"@ac130": [
+			"1.2"
+		],
+		"@ac130x": [
+			"1.2"
+		],
+		"@ac130x_a3": [
+			"0.1"
+		],
+		"@ace": [
+			"1.14.0.595",
+			"1.14.0.596-alpha",
+			"1.14.0.597"
+		],
+		"@ace_a2": [
+			"1.3.0"
+		],
+		"@ace_cheytacpack": [
+			"1.0"
+		],
+		"@aces": [
+			"1.0"
+		],
+		"@acex": [
+			"1.14.0.372"
+		],
+		"@acex_pla": [
+			"1.2.0"
+		],
+		"@acex_ru": [
+			"1.14.0.77"
+		],
+		"@acex_sm": [
+			"1.14.0.107"
+		],
+		"@acex_usnavy": [
+			"1.14.0.79"
+		],
+		"@acr_weapons": [
+			"0.5.0"
+		],
+		"@acre": [
+			"1.4.10"
+		],
+		"@acu_reskin": [
+			"0.0.1"
+		],
+		"@ad_helos": [
+			"1.5.0"
+		],
+		"@adf": [
+			"0.2",
+			"0.3",
+			"0.4"
+		],
+		"@ado_boussole": [
+			"0.4"
+		],
+		"@aeg": [
+			"1.1.0"
+		],
+		"@aek": [
+			"1.2.0"
+		],
+		"@afghan_pack": [
+			"1.0.0.1",
+			"1.1",
+			"1.2"
+		],
+		"@afghanvalley": [
+			"0.1.0"
+		],
+		"@african_conflict": [
+			"1.1"
+		],
+		"@aftermath": [
+			"0.9.0.7"
+		],
+		"@aftp_compassfix": [
+			"1.0"
+		],
+		"@agile_littlebird": [
+			"1.0"
+		],
+		"@ags": [
+			"0.0.1"
+		],
+		"@ags_buildings": [
+			"0.0.1"
+		],
+		"@ags_industrial": [
+			"0.0.1"
+		],
+		"@ags_port": [
+			"0.0.1"
+		],
+		"@ags_roads": [
+			"0.0.1"
+		],
+		"@aiss": [
+			"1.1",
+			"1.2.1",
+			"1.2.1.1",
+			"1.3",
+			"2.0",
+			"2.0.0.1",
+			"2.0.1",
+			"2.0.2",
+			"2.1.1",
+			"2.1.2",
+			"2.1.2.1",
+			"5.2",
+			"5.5"
+		],
+		"@alicepack": [
+			"0.0.1"
+		],
+		"@alive": [
+			"0.5.1",
+			"0.5.2",
+			"0.5.2.1",
+			"0.5.4",
+			"0.5.6",
+			"0.5.6.1401291",
+			"0.5.8.1402211",
+			"0.5.8.1403071",
+			"0.6.0.1403201",
+			"0.6.0.1403221",
+			"0.6.2.1404101",
+			"0.6.5.1404301"
+		],
+		"@allinarma": [
+			"0.0.20",
+			"0.0.21"
+		],
+		"@allinarmahighqualitypack": [
+			"0.1",
+			"0.2",
+			"0.3",
+			"0.4"
+		],
+		"@alpha_pack": [
+			"1.0"
+		],
+		"@alphasounds": [
+			"1.3.1"
+		],
+		"@alt_pack": [
+			"1.0"
+		],
+		"@altisdf": [
+			"1.0.1",
+			"1.0.2"
+		],
+		"@am92_mfd_ah6": [
+			"0.0.1"
+		],
+		"@amt": [
+			"1.41.0"
+		],
+		"@an225": [
+			"0.17"
+		],
+		"@anzac": [
+			"0.85.0"
+		],
+		"@aplion_buildings": [
+			"1.0.0"
+		],
+		"@arc_cp": [
+			"0.2"
+		],
+		"@arc_frup": [
+			"0.5.2"
+		],
+		"@arc_gerup": [
+			"0.4"
+		],
+		"@arc_plup": [
+			"0.2"
+		],
+		"@arc_ukup": [
+			"0.2"
+		],
+		"@ard_tsf": [
+			"0.6"
+		],
+		"@arf": [
+			"1.0.2"
+		],
+		"@arma2ts": [
+			"0.0.1"
+		],
+		"@armanature": [
+			"1.0"
+		],
+		"@arp": [
+			"0.0.1"
+		],
+		"@arp2": [
+			"0.2-alpha"
+		],
+		"@as_eu_oa_full": [
+			"1.1.0"
+		],
+		"@asc": [
+			"0.0.1"
+		],
+		"@asdg_attachments": [
+			"0.10"
+		],
+		"@asdg_jr": [
+			"0.8"
+		],
+		"@asr": [
+			"1.1.0",
+			"1.1.0.1"
+		],
+		"@asr_aek_ace": [
+			"0.0.1"
+		],
+		"@asr_ai": [
+			"1.16.2"
+		],
+		"@asr_ai3": [
+			"0.9",
+			"0.9.1",
+			"0.9.2",
+			"0.9.3"
+		],
+		"@asr_fqh_remington_ace": [
+			"1.2"
+		],
+		"@asr_len_l119_ace": [
+			"0.0.1"
+		],
+		"@asr_lingor_units_ace": [
+			"0.0.1"
+		],
+		"@asr_mapgrids": [
+			"1.4.0"
+		],
+		"@asr_pukf_weapons_ace": [
+			"0.0.1"
+		],
+		"@asr_rh_hk416_ace": [
+			"0.0.1"
+		],
+		"@asr_rh_m14_ace": [
+			"0.0.1"
+		],
+		"@asr_rh_m4_ace": [
+			"0.0.1"
+		],
+		"@asr_rh_mgs_ace": [
+			"0.0.1"
+		],
+		"@asr_rh_mk18_ace": [
+			"0.0.1"
+		],
+		"@asr_rh_pdw_ace": [
+			"0.0.1"
+		],
+		"@asr_rh_pistol_ace": [
+			"0.0.1"
+		],
+		"@asr_rh_smg_ace": [
+			"0.0.1"
+		],
+		"@asr_sud_ak74m_ace": [
+			"0.0.1"
+		],
+		"@asr_throw": [
+			"1.2"
+		],
+		"@asta_pakol": [
+			"1.0"
+		],
+		"@ata_xm25": [
+			"0.23"
+		],
+		"@aus_objects": [
+			"0.0.1"
+		],
+		"@aus_pack": [
+			"1.0"
+		],
+		"@aus_police": [
+			"0.0.1"
+		],
+		"@aus_signs": [
+			"0.0.1"
+		],
+		"@aus_us_helmets": [
+			"0.0.1"
+		],
+		"@av_mods": [
+			"1.6"
+		],
+		"@babe_midtex": [
+			"3.0"
+		],
+		"@babe_midtex_stratis": [
+			"0.0.1"
+		],
+		"@babe_sfastan": [
+			"0.1"
+		],
+		"@babe_targets": [
+			"0.0.1"
+		],
+		"@baf_a3": [
+			"2.1"
+		],
+		"@baf_hercules_c5": [
+			"1.0"
+		],
+		"@baked_ais": [
+			"0.1.3",
+			"0.1.3.1",
+			"0.1.3.2"
+		],
+		"@balkan_war_mod": [
+			"1.3"
+		],
+		"@banran": [
+			"1.0.0"
+		],
+		"@bb_mercs": [
+			"0.0.1"
+		],
+		"@bb_oa_female": [
+			"0.0.1"
+		],
+		"@bb_oa_mercs": [
+			"0.0.1"
+		],
+		"@bcombat": [
+			"0.16"
+		],
+		"@bd_tracer": [
+			"1.1"
+		],
+		"@beanie": [
+			"1.1",
+			"2.0"
+		],
+		"@beard": [
+			"0.5"
+		],
+		"@bearrocks": [
+			"0.9.0"
+		],
+		"@beketov": [
+			"0.26"
+		],
+		"@belsebub": [
+			"0.3.0"
+		],
+		"@bet_huertgen": [
+			"0.0.1"
+		],
+		"@beton": [
+			"0.0.1"
+		],
+		"@bink_omon": [
+			"1.2.0"
+		],
+		"@bink_sf": [
+			"1.0.0"
+		],
+		"@bink_usmc": [
+			"1.2.0"
+		],
+		"@bink_usmc_fr": [
+			"1.2"
+		],
+		"@bink_usmc_repl": [
+			"1.0"
+		],
+		"@blackop_swat": [
+			"0.0.1"
+		],
+		"@blakes_ai_fo": [
+			"1.4.2"
+		],
+		"@blakes_autopilot": [
+			"1.1.0"
+		],
+		"@blakes_autopilot_toh": [
+			"1.1.0"
+		],
+		"@blakes_carrier_ops": [
+			"0.0.1"
+		],
+		"@blakes_mirrors": [
+			"1.0.0"
+		],
+		"@blakes_pins": [
+			"1.3.3"
+		],
+		"@blakes_pradar": [
+			"1.2.3"
+		],
+		"@blakes_sling_load_toh": [
+			"0.2.1"
+		],
+		"@blastcore_a3": [
+			"0.1",
+			"0.2",
+			"0.2.0.1",
+			"0.3"
+		],
+		"@blastcore_visuals": [
+			"1.2.0"
+		],
+		"@blastcore-anims": [
+			"0.1"
+		],
+		"@blastcore-physics": [
+			"1.0"
+		],
+		"@blastcore-tracers": [
+			"1.0"
+		],
+		"@blend_avi-a3": [
+			"0.0.1"
+		],
+		"@blood_mist": [
+			"0.0.1"
+		],
+		"@blx_ridgback": [
+			"1.1.0"
+		],
+		"@bovinton_tank_range": [
+			"1.0"
+		],
+		"@bowman": [
+			"0.3.0"
+		],
+		"@bra_minihattan": [
+			"0.3.1"
+		],
+		"@bra_minihattana3": [
+			"0.3.1"
+		],
+		"@bracer": [
+			"1.12.0"
+		],
+		"@breakingpoint": [
+			"0.3.1996"
+		],
+		"@brf_heject": [
+			"0.0.1"
+		],
+		"@brg_africa": [
+			"0.0.1",
+			"0.0.2"
+		],
+		"@brik2": [
+			"0.4.0"
+		],
+		"@brit_mtp": [
+			"1.3.0"
+		],
+		"@btc_weapons_a2": [
+			"1.0",
+			"1.2",
+			"1.2.0.1"
+		],
+		"@bts_brasil": [
+			"1.2.1",
+			"1.2.2"
+		],
+		"@bullet_hits_value": [
+			"1.0"
+		],
+		"@bullet_hits_value_vanilla": [
+			"1.0.1"
+		],
+		"@bw_camo": [
+			"1.4"
+		],
+		"@bw_retex": [
+			"0.0.1"
+		],
+		"@bw-compilation": [
+			"0.0.1"
+		],
+		"@bw-compilation_ace": [
+			"0.0.1"
+		],
+		"@bwmod": [
+			"0.0.1"
+		],
+		"@bwmod_ace": [
+			"0.0.1"
+		],
+		"@c_17": [
+			"1.1",
+			"1.2",
+			"1.3"
+		],
+		"@c17a3": [
+			"1.6",
+			"1.8",
+			"2.3"
+		],
+		"@c1987_mp7": [
+			"2.5"
+		],
+		"@c1a": [
+			"0.5-beta"
+		],
+		"@caa1": [
+			"0.0.2"
+		],
+		"@caf": [
+			"1.7",
+			"1.7.1"
+		],
+		"@caf_ag": [
+			"1.5.2"
+		],
+		"@cal68": [
+			"0.0.1"
+		],
+		"@cariboufrontier": [
+			"1.0.0"
+		],
+		"@carraigdubh": [
+			"1.0.0"
+		],
+		"@cba": [
+			"1.0.0"
+		],
+		"@cba_a2": [
+			"1.0.0"
+		],
+		"@cba_a3": [
+			"1.0.0.4-beta",
+			"1.0.0.5-beta"
+		],
+		"@cba_co": [
+			"1.0.1"
+		],
+		"@cba_oa": [
+			"1.0.0"
+		],
+		"@cba_toh": [
+			"1.0.0"
+		],
+		"@cct_fardas": [
+			"1.7"
+		],
+		"@cgn": [
+			"1.0"
+		],
+		"@ch": [
+			"1.2"
+		],
+		"@cha_rus": [
+			"0.1"
+		],
+		"@chernobylzone": [
+			"0.1"
+		],
+		"@chimalpopoca": [
+			"0.1.0"
+		],
+		"@chinese_infantry": [
+			"1.0.0"
+		],
+		"@chinnok_raf": [
+			"1.0",
+			"1.0.1"
+		],
+		"@chn_crocodile": [
+			"0.0.2"
+		],
+		"@cho_f35b": [
+			"1.0"
+		],
+		"@cia_sad": [
+			"0.0.1"
+		],
+		"@cicada": [
+			"1.2.0"
+		],
+		"@ciws": [
+			"0.9"
+		],
+		"@cjm": [
+			"0.1",
+			"1.4",
+			"1.5"
+		],
+		"@cjtf_irnohelma3": [
+			"1.3"
+		],
+		"@cjtf_irstrobea3": [
+			"1.3"
+		],
+		"@cjtf101editor": [
+			"1.14.326",
+			"1.14.420",
+			"1.14.426"
+		],
+		"@clafghan": [
+			"1.1.0"
+		],
+		"@clay_dogs": [
+			"1.2",
+			"1.2.0.1"
+		],
+		"@cleggy": [
+			"1.1"
+		],
+		"@cma_mi28_rus": [
+			"1.0"
+		],
+		"@cms": [
+			"0.5.13.1"
+		],
+		"@cnp": [
+			"0.1-beta"
+		],
+		"@cobra": [
+			"0.1.0"
+		],
+		"@col_pack": [
+			"1.0"
+		],
+		"@compassfix": [
+			"1.1.0"
+		],
+		"@coslx": [
+			"2.4",
+			"2.6"
+		],
+		"@cowarmod": [
+			"1.4.0"
+		],
+		"@cowarmodace": [
+			"1.4.0.1"
+		],
+		"@cpm": [
+			"1.1",
+			"1.2",
+			"1.3",
+			"1.4",
+			"1.5",
+			"1.6",
+			"1.7.1",
+			"1.8",
+			"1.8.1"
+		],
+		"@croaf": [
+			"1.0",
+			"1.1"
+		],
+		"@csj_shark": [
+			"0.0.1"
+		],
+		"@csj_snake": [
+			"1.0.2"
+		],
+		"@csla": [
+			"2.20.1",
+			"2.25"
+		],
+		"@csm2": [
+			"0.0.1"
+		],
+		"@csm2oa": [
+			"0.0.1"
+		],
+		"@ctab": [
+			"1.2.0.1",
+			"1.2.0.2"
+		],
+		"@ctrg": [
+			"1.1"
+		],
+		"@cup_volha": [
+			"1.0"
+		],
+		"@cwr2": [
+			"1.0.0.7-beta"
+		],
+		"@cwr2_canard": [
+			"0.0.1"
+		],
+		"@cwr2_drachenfels": [
+			"1.0.0"
+		],
+		"@cwr2_elite": [
+			"1.0"
+		],
+		"@cwr2_nl": [
+			"1.0.5"
+		],
+		"@cwr2_saintdavid": [
+			"1.0"
+		],
+		"@cwr2_uk": [
+			"1.0.7"
+		],
+		"@cz": [
+			"0.0.1"
+		],
+		"@dac": [
+			"0.0.1"
+		],
+		"@dac_a3": [
+			"3.1",
+			"3.1.1"
+		],
+		"@daf": [
+			"0.7.4",
+			"0.8"
+		],
+		"@dagger": [
+			"0.0.5",
+			"0.0.7"
+		],
+		"@dagger_weapons": [
+			"1.0"
+		],
+		"@daggerballistics": [
+			"1.0",
+			"2.0"
+		],
+		"@danskeuniformer": [
+			"1.0"
+		],
+		"@dapman": [
+			"0.0.1"
+		],
+		"@dapman_auto": [
+			"0.0.1"
+		],
+		"@dar_acu": [
+			"1.0",
+			"1.0.5",
+			"1.1"
+		],
+		"@dayz": [
+			"1.7.7.1",
+			"1.8",
+			"1.8.0.2",
+			"1.8.0.3"
+		],
+		"@dayz_2017": [
+			"2.0.1",
+			"2.1"
+		],
+		"@dayz_battleroyale": [
+			"0.9.6",
+			"0.9.6.3"
+		],
+		"@dayz_caribou": [
+			"0.2"
+		],
+		"@dayz_celle": [
+			"1.7.5.1",
+			"1.9"
+		],
+		"@dayz_civilian": [
+			"2.0"
+		],
+		"@dayz_conflicts": [
+			"1.9"
+		],
+		"@dayz_dgxcelle": [
+			"1.1.1"
+		],
+		"@dayz_emita": [
+			"1.7.3"
+		],
+		"@dayz_epidemic": [
+			"1.0.3.1"
+		],
+		"@dayz_epoch": [
+			"1.0.4",
+			"1.0.4.1",
+			"1.0.4.2"
+		],
+		"@dayz_epochpanthera_epoch": [
+			"1.0.4.2"
+		],
+		"@dayz_epochpanthera_panthera": [
+			"1.0.4"
+		],
+		"@dayz_escape": [
+			"0.5.7"
+		],
+		"@dayz_factions": [
+			"0.0.1"
+		],
+		"@dayz_fallujah": [
+			"1.5.0"
+		],
+		"@dayz_i44": [
+			"0.2.1"
+		],
+		"@dayz_isladuala": [
+			"1.1.0"
+		],
+		"@dayz_lingor": [
+			"1.3.0"
+		],
+		"@dayz_lingor_skaro": [
+			"2.1.1"
+		],
+		"@dayz_mc": [
+			"1.5.2"
+		],
+		"@dayz_namalsk": [
+			"0.74.2",
+			"0.75"
+		],
+		"@dayz_origins": [
+			"1.7.8.5"
+		],
+		"@dayz_oring": [
+			"1.0.8"
+		],
+		"@dayz_overwatch": [
+			"0.2.5"
+		],
+		"@dayz_panthera2": [
+			"1.8.1"
+		],
+		"@dayz_redux": [
+			"1.0.0"
+		],
+		"@dayz_retro": [
+			"1.1.1"
+		],
+		"@dayz_sahrani": [
+			"1.0.0",
+			"1.1.0"
+		],
+		"@dayz_takistan": [
+			"2.2"
+		],
+		"@dayz_taviana": [
+			"1.5.1"
+		],
+		"@dayz_taviana2": [
+			"2.0.0"
+		],
+		"@dayz_thirsk": [
+			"1.3.1"
+		],
+		"@dayz_utes": [
+			"1.3.0"
+		],
+		"@dayz_zargabad": [
+			"1.5.1"
+		],
+		"@dayz+": [
+			"1.1.2"
+		],
+		"@dayzed": [
+			"0.2.9.5",
+			"0.2.9.6"
+		],
+		"@dayzero": [
+			"1.1.7"
+		],
+		"@dayzero_chernarus": [
+			"1.1.7"
+		],
+		"@dayzero_podagorsk": [
+			"1.1.7"
+		],
+		"@dayzhuntinggrounds": [
+			"1.0.1"
+		],
+		"@dayzsauerland": [
+			"1.70.2"
+		],
+		"@dayzunleashed": [
+			"0.96"
+		],
+		"@dbo_afghan": [
+			"0.0.1"
+		],
+		"@dbo_lhd": [
+			"0.1"
+		],
+		"@dco_equip": [
+			"1.0",
+			"1.0.0.1"
+		],
+		"@ddam": [
+			"1.1.1"
+		],
+		"@deditor": [
+			"0.0.1"
+		],
+		"@del_fuego": [
+			"0.3"
+		],
+		"@delta": [
+			"2.0"
+		],
+		"@delta_mod": [
+			"1.0"
+		],
+		"@deu_bw": [
+			"0.0.1"
+		],
+		"@devcon": [
+			"0.0.1"
+		],
+		"@dfb": [
+			"0.0.1"
+		],
+		"@dfs_3rdperson_a3": [
+			"0.0.1",
+			"0.0.1.1"
+		],
+		"@dfs_fpscounter": [
+			"0.1.1"
+		],
+		"@dfs_rhaksreplace": [
+			"1.0"
+		],
+		"@dfs_visiblecrosshairs": [
+			"0.0.1"
+		],
+		"@diaoyu": [
+			"0.7"
+		],
+		"@dih_africa2": [
+			"1.2",
+			"1.2.0.1"
+		],
+		"@dingor": [
+			"1.0.1"
+		],
+		"@distance": [
+			"1.0"
+		],
+		"@dk_usaf_csar": [
+			"1.0"
+		],
+		"@dm": [
+			"1.0"
+		],
+		"@dmi_swiss": [
+			"0.2-alpha"
+		],
+		"@dmifaction": [
+			"0.1-alpha"
+		],
+		"@dpcu": [
+			"0.0.1"
+		],
+		"@dr_irregulars": [
+			"0.4.8"
+		],
+		"@driftermod": [
+			"0.0.1"
+		],
+		"@drongosartillery": [
+			"0.25"
+		],
+		"@drongostoolkit": [
+			"0.72",
+			"0.73",
+			"0.74"
+		],
+		"@drskill": [
+			"0.1"
+		],
+		"@ds_peaceandquiet": [
+			"1.1"
+		],
+		"@dutcharmy": [
+			"0.0.1"
+		],
+		"@dvd": [
+			"0.0.1"
+		],
+		"@dynamicmovement": [
+			"0.2"
+		],
+		"@e3_units": [
+			"0.0.1",
+			"1.3"
+		],
+		"@eb_air": [
+			"1.1"
+		],
+		"@ebu_c130": [
+			"1.21",
+			"1.22"
+		],
+		"@elephantisland": [
+			"1.7"
+		],
+		"@elk_aa": [
+			"1.0-beta",
+			"1.0.2-beta"
+		],
+		"@emu": [
+			"0.8-beta",
+			"0.9-beta"
+		],
+		"@eod": [
+			"0.0.1"
+		],
+		"@eodmydog": [
+			"0.0.1"
+		],
+		"@esbekistan": [
+			"1.3.0"
+		],
+		"@etahplateau": [
+			"0.1.1"
+		],
+		"@euss": [
+			"0.1-alpha",
+			"0.2-alpha",
+			"0.3-alpha"
+		],
+		"@everon2013": [
+			"1.0.1",
+			"2.0.1"
+		],
+		"@evw": [
+			"0.5-alpha",
+			"0.6",
+			"0.55-alpha"
+		],
+		"@exa_humvees": [
+			"1.1.5"
+		],
+		"@exa_rg31": [
+			"1.0"
+		],
+		"@f117a": [
+			"1.0"
+		],
+		"@f15a": [
+			"1.1"
+		],
+		"@f2f_mag_harriers": [
+			"0.8"
+		],
+		"@f35reskins": [
+			"0.8"
+		],
+		"@fa": [
+			"1.1.1"
+		],
+		"@fa_gps": [
+			"0.0.1"
+		],
+		"@fa_maritime": [
+			"1.0"
+		],
+		"@fa18": [
+			"2.0"
+		],
+		"@fa18_a3": [
+			"1.6"
+		],
+		"@faffindale": [
+			"0.1.1"
+		],
+		"@fallujah": [
+			"1.2.1"
+		],
+		"@fapovo": [
+			"1.0"
+		],
+		"@fata": [
+			"1.0"
+		],
+		"@fata_a3": [
+			"1.0.0.1"
+		],
+		"@faux": [
+			"1.0"
+		],
+		"@favslev": [
+			"2.5-alpha"
+		],
+		"@faysh_khabur": [
+			"1.2.1"
+		],
+		"@fdf_ace_compatibility": [
+			"0.0.3"
+		],
+		"@fdf_mod": [
+			"1.0.0"
+		],
+		"@fdf_podagorsk": [
+			"0.0.1"
+		],
+		"@fee": [
+			"1.1"
+		],
+		"@ffaa": [
+			"5.1"
+		],
+		"@ffaa_a3": [
+			"6.0.1"
+		],
+		"@ffaa_civiles_arabes": [
+			"0.0.1"
+		],
+		"@ffaa_terroristas": [
+			"0.0.1"
+		],
+		"@ffis": [
+			"1.25"
+		],
+		"@fgh": [
+			"1.0"
+		],
+		"@fhq_accessories": [
+			"1.4"
+		],
+		"@fhq_m4_a3": [
+			"1.9"
+		],
+		"@fhq_mapdraw": [
+			"1.0"
+		],
+		"@fhq_remington": [
+			"1.2"
+		],
+		"@flay_hangglider": [
+			"0.4"
+		],
+		"@flummi_usp": [
+			"0.0.1"
+		],
+		"@flv_ruplacements": [
+			"1.1"
+		],
+		"@fmp_dance": [
+			"0.2"
+		],
+		"@folcams": [
+			"1.0"
+		],
+		"@foxus_astanmarines": [
+			"0.1"
+		],
+		"@fran_quesh_kibrul": [
+			"0.0.1"
+		],
+		"@fran_sbrodj": [
+			"1.5.1"
+		],
+		"@french_sf": [
+			"5.0-beta"
+		],
+		"@frl_chromakeywall": [
+			"1.0.1"
+		],
+		"@fsf_jungle-v0.1": [
+			"0.0.1"
+		],
+		"@fsf_sacventral": [
+			"1.3.325"
+		],
+		"@fsf_varkgard": [
+			"0.2"
+		],
+		"@futarm": [
+			"1.5"
+		],
+		"@future_marines": [
+			"1.0.1"
+		],
+		"@g_groups": [
+			"0.2"
+		],
+		"@g36_a2p": [
+			"2.0"
+		],
+		"@gac_h53": [
+			"1.3"
+		],
+		"@gac_jsdf": [
+			"0.3"
+		],
+		"@gaf": [
+			"0.0.1"
+		],
+		"@gaf_ace": [
+			"0.0.1"
+		],
+		"@gaf_acre": [
+			"0.0.1"
+		],
+		"@gafa3": [
+			"1.0",
+			"1.4"
+		],
+		"@galz_wind_ballistics": [
+			"0.2"
+		],
+		"@gam": [
+			"1.4.0"
+		],
+		"@gam_player_mute": [
+			"1.0.0"
+		],
+		"@gbl_aim": [
+			"0.85.1"
+		],
+		"@gdtmod_bino": [
+			"0.0.1"
+		],
+		"@gdtmod_gl_sights": [
+			"0.0.1"
+		],
+		"@gdtmod_grass": [
+			"0.0.1"
+		],
+		"@gdtmod_hdr": [
+			"0.0.1"
+		],
+		"@gdtmod_sun": [
+			"0.0.1"
+		],
+		"@genoma_helmets": [
+			"1.0.0"
+		],
+		"@ger_bgs": [
+			"1.5"
+		],
+		"@ger_civil": [
+			"1.7.0.1"
+		],
+		"@ger_misc_pack": [
+			"1.7"
+		],
+		"@ger_nva": [
+			"1.0"
+		],
+		"@ger_police": [
+			"1.3.0.1"
+		],
+		"@ger_police_2": [
+			"1.2.0.1"
+		],
+		"@ger_police_desert": [
+			"1.1"
+		],
+		"@ger_weapons": [
+			"1.8.1.2"
+		],
+		"@ger_weapons_2": [
+			"1.15"
+		],
+		"@gersen": [
+			"1.3.3"
+		],
+		"@gix_b1blancer": [
+			"1.1",
+			"1.2"
+		],
+		"@gk": [
+			"1.0"
+		],
+		"@gl4": [
+			"0.0.1"
+		],
+		"@gl5": [
+			"1.0",
+			"1.0.0.1",
+			"1.0.0.2"
+		],
+		"@gl5_specialfx": [
+			"1.0"
+		],
+		"@glt_airweapons": [
+			"0.0.1"
+		],
+		"@glt_f16": [
+			"0.0.1"
+		],
+		"@glt_jas39": [
+			"1.0.0"
+		],
+		"@glt_lhd": [
+			"0.0.1"
+		],
+		"@glt_missilebox": [
+			"3.5.0"
+		],
+		"@glt_mod": [
+			"1.17",
+			"1.18"
+		],
+		"@glt_realairweapons": [
+			"0.0.1"
+		],
+		"@gnat_b52beta": [
+			"3.0"
+		],
+		"@gnt_c185_a3a": [
+			"0.2.0"
+		],
+		"@gnt_frigates": [
+			"0.0.1"
+		],
+		"@gnt_fsf": [
+			"0.3"
+		],
+		"@gnt_sigisolda": [
+			"1.0.1"
+		],
+		"@goosuksf": [
+			"1.0"
+		],
+		"@greek_units": [
+			"1.0.1"
+		],
+		"@grt_r34": [
+			"1.0"
+		],
+		"@gsep_miros": [
+			"0.0.1"
+		],
+		"@gsep_miroslavl": [
+			"0.0.1"
+		],
+		"@gsep_mosch": [
+			"1.1.1"
+		],
+		"@gsep_moschnyi": [
+			"0.0.1"
+		],
+		"@gsep_zernovo": [
+			"0.0.1"
+		],
+		"@gsp_sniperpack": [
+			"1.0"
+		],
+		"@gxaddons": [
+			"2.1",
+			"2.1.0.1",
+			"2.2.1",
+			"2.2.4"
+		],
+		"@hafm": [
+			"1.1.1"
+		],
+		"@hafm_a3": [
+			"1.2",
+			"2.1"
+		],
+		"@hafm_a3_air": [
+			"1.1"
+		],
+		"@hafm_helis": [
+			"3.0"
+		],
+		"@hafm_hmmwv_a3": [
+			"3.0"
+		],
+		"@hafm_nvg": [
+			"1.0"
+		],
+		"@hafm_uaz": [
+			"1.0"
+		],
+		"@hafm_uk": [
+			"1.0"
+		],
+		"@headfree": [
+			"0.0.1"
+		],
+		"@heli_extras": [
+			"1.3.1"
+		],
+		"@helmand_valley": [
+			"0.2"
+		],
+		"@hexagon": [
+			"0.0.1"
+		],
+		"@hiddenidentitypack": [
+			"3.0"
+		],
+		"@hiddenidentityv2": [
+			"1.1"
+		],
+		"@hifi_ace": [
+			"0.0.1"
+		],
+		"@hifi_air": [
+			"0.0.1"
+		],
+		"@hifi_sfx": [
+			"0.0.1"
+		],
+		"@hifi_vehicle_weapons": [
+			"0.0.1"
+		],
+		"@hifi_weapons_long": [
+			"0.0.1"
+		],
+		"@hlcmods_ak": [
+			"1.0",
+			"1.1"
+		],
+		"@hlcmods_core": [
+			"0.2",
+			"0.2.0.1",
+			"0.3"
+		],
+		"@hlcmods_m60e4": [
+			"2.0",
+			"3.0"
+		],
+		"@hmm_stanceindicator": [
+			"1.1.0"
+		],
+		"@hotze_base": [
+			"2.0.1"
+		],
+		"@hrp": [
+			"1.0",
+			"1.1"
+		],
+		"@hso_sla": [
+			"1.3.0.1"
+		],
+		"@i44": [
+			"2.666.2"
+		],
+		"@iaf": [
+			"0.1-beta",
+			"1.1"
+		],
+		"@iansky_scope_mod": [
+			"6.1"
+		],
+		"@ibr_dtowns": [
+			"0.0.1"
+		],
+		"@ibr_lcivilians": [
+			"1.4.2",
+			"1.5"
+		],
+		"@ibr_plants": [
+			"1.4.2",
+			"1.5"
+		],
+		"@ibr_rn": [
+			"0.0.1"
+		],
+		"@icmod": [
+			"1.0"
+		],
+		"@idf": [
+			"1.0.3"
+		],
+		"@idzgladius": [
+			"1.0"
+		],
+		"@if_lite": [
+			"1.0.8"
+		],
+		"@if_other_addons_lite": [
+			"1.0.8"
+		],
+		"@ifa3": [
+			"5.0"
+		],
+		"@ifa3_lite": [
+			"5.0"
+		],
+		"@ifa3m_lite": [
+			"1.0.8"
+		],
+		"@ifritgalkinfix": [
+			"1.0.1"
+		],
+		"@igit_adj": [
+			"0.1"
+		],
+		"@ikar_m2m": [
+			"0.0.1"
+		],
+		"@improved_ragdoll_physics": [
+			"1.1"
+		],
+		"@improvedfatiguesystem": [
+			"0.1",
+			"0.2",
+			"0.3"
+		],
+		"@inidbi": [
+			"1.4"
+		],
+		"@inko": [
+			"1.3"
+		],
+		"@inko_a3": [
+			"1.2"
+		],
+		"@iranian_forces": [
+			"0.1.7"
+		],
+		"@isla_de_pollo": [
+			"1.0.0"
+		],
+		"@isla_duala": [
+			"1.97.1"
+		],
+		"@isle_van_den": [
+			"0.85.1"
+		],
+		"@italian_sof": [
+			"1.1"
+		],
+		"@italian_sof_a3": [
+			"1.2"
+		],
+		"@ivd": [
+			"0.0.1"
+		],
+		"@ivory": [
+			"1.1",
+			"1.2-alpha"
+		],
+		"@ivory_f15c": [
+			"1.2",
+			"1.3",
+			"1.4",
+			"1.5"
+		],
+		"@ivory_gr4": [
+			"1.5"
+		],
+		"@ivory_mig29k": [
+			"1.4",
+			"1.5"
+		],
+		"@ivory_t6a": [
+			"1.1",
+			"1.2",
+			"1.3",
+			"1.4",
+			"1.5"
+		],
+		"@j198_ftb": [
+			"0.95.1"
+		],
+		"@j4p_ucsv": [
+			"1.0",
+			"1.1"
+		],
+		"@jade": [
+			"1.0.1"
+		],
+		"@japahto": [
+			"0.0.1"
+		],
+		"@jayarma2lib": [
+			"1.4.1"
+		],
+		"@jc_russians": [
+			"0.1-alpha"
+		],
+		"@jdg_nimitz": [
+			"0.93.10"
+		],
+		"@jdg_r08": [
+			"0.7-beta"
+		],
+		"@jed_ess": [
+			"1.6.1"
+		],
+		"@jed_removeradar": [
+			"0.0.1"
+		],
+		"@jed_weapcheck": [
+			"1.0.1"
+		],
+		"@jemand_vehicleport": [
+			"1.0"
+		],
+		"@js_jc_su35": [
+			"0.98"
+		],
+		"@jsdfmod": [
+			"1.43.1"
+		],
+		"@jsdfmod_ace": [
+			"1.43.1"
+		],
+		"@jsdfmod_acre": [
+			"1.43.1"
+		],
+		"@jsf10_a3": [
+			"0.0.1"
+		],
+		"@jsf10_dpm": [
+			"0.0.1"
+		],
+		"@jsrs": [
+			"1.5.5"
+		],
+		"@jsrs_ace": [
+			"1.5.4"
+		],
+		"@jsrs_acr": [
+			"1.5.4"
+		],
+		"@jsrs_ukf": [
+			"1.0"
+		],
+		"@jsrs2": [
+			"2.1"
+		],
+		"@jtd": [
+			"0.3.0"
+		],
+		"@kae_svd": [
+			"0.3.0"
+		],
+		"@kae_sz": [
+			"0.3.2",
+			"0.4.0",
+			"0.4.1"
+		],
+		"@kae_sz_lang": [
+			"1.0"
+		],
+		"@karma_modules": [
+			"1.4"
+		],
+		"@kdk_mohawk": [
+			"0.1"
+		],
+		"@kio_balaclava": [
+			"1.1.0.1"
+		],
+		"@kio_l85a2": [
+			"2.0"
+		],
+		"@kio_skull_mask": [
+			"1.0"
+		],
+		"@klu_glt_missilebox_ace": [
+			"2.1.1"
+		],
+		"@klurs": [
+			"5.11.2009"
+		],
+		"@kolgujev_2010": [
+			"2.0.1"
+		],
+		"@koplic": [
+			"0.2"
+		],
+		"@kpfs": [
+			"1.0",
+			"1.1"
+		],
+		"@ksk_mod": [
+			"0.0.1"
+		],
+		"@kulima": [
+			"2.2.1"
+		],
+		"@kunar_region": [
+			"0.1"
+		],
+		"@kyo_mh47e": [
+			"1.3.0"
+		],
+		"@kyo_platforms_toh": [
+			"1.0.1"
+		],
+		"@l86a2": [
+			"1.1",
+			"1.2",
+			"1.3"
+		],
+		"@landtex": [
+			"0.0.1"
+		],
+		"@landtex_a3a": [
+			"1.0.1"
+		],
+		"@lb_ext": [
+			"0.0.1"
+		],
+		"@ldl": [
+			"0.8.1"
+		],
+		"@len_l119": [
+			"0.0.1"
+		],
+		"@lgn_mas2": [
+			"1.0"
+		],
+		"@lhm": [
+			"2.0.2",
+			"2.1.0",
+			"2.2.0",
+			"2.2.1"
+		],
+		"@lhm_para": [
+			"0.0.1"
+		],
+		"@lhm_staticdrag": [
+			"1.0",
+			"1.0.1",
+			"1.0.2",
+			"1.1",
+			"1.1.1"
+		],
+		"@lib_dlc_1_lite": [
+			"1.0.3"
+		],
+		"@lingor": [
+			"1.5"
+		],
+		"@lingor_units": [
+			"1.338.1"
+		],
+		"@lipetskiy_sobr": [
+			"1.0"
+		],
+		"@lkr_ammo": [
+			"0.6",
+			"0.7"
+		],
+		"@lkr_cfg": [
+			"1.5",
+			"1.6"
+		],
+		"@lobo_idf": [
+			"1.0"
+		],
+		"@lobo_idf_ace": [
+			"1.0"
+		],
+		"@lobo_iraq": [
+			"1.0"
+		],
+		"@lobogulfwarmod": [
+			"2.0.1"
+		],
+		"@locw": [
+			"0.85"
+		],
+		"@lolonaia": [
+			"0.1.0"
+		],
+		"@lpd29": [
+			"2.0.1"
+		],
+		"@lsd_nvg": [
+			"1.1"
+		],
+		"@m107": [
+			"1.5.0.1"
+		],
+		"@m1117": [
+			"1.0"
+		],
+		"@mad_build": [
+			"0.8.0"
+		],
+		"@mad_resh": [
+			"0.8.0"
+		],
+		"@maf2ext": [
+			"3.0.0"
+		],
+		"@mao": [
+			"1.0"
+		],
+		"@mao_ranger_rep": [
+			"1.0"
+		],
+		"@mapplus": [
+			"1.0.1"
+		],
+		"@mar_2maw": [
+			"2.1.1"
+		],
+		"@mar_inf_marines": [
+			"2.1"
+		],
+		"@mar_inf_marines_ace": [
+			"2.1"
+		],
+		"@mar_pilot": [
+			"1.3.1"
+		],
+		"@marsof": [
+			"1.5",
+			"1.6",
+			"1.7",
+			"1.8",
+			"1.9",
+			"2.0"
+		],
+		"@mas_uk_sftg_a3": [
+			"1.1"
+		],
+		"@mas_usa_devg": [
+			"1.2"
+		],
+		"@mb_mana": [
+			"0.7.1"
+		],
+		"@mb_rocks": [
+			"0.7-beta"
+		],
+		"@mb_veg_adv": [
+			"0.9"
+		],
+		"@mbg_buildings2": [
+			"0.0.2"
+		],
+		"@mbg_buildings2_eu": [
+			"0.0.1"
+		],
+		"@mbg_buildings3": [
+			"1.0.1"
+		],
+		"@mbg_caterpillar": [
+			"0.0.1"
+		],
+		"@mbg_celle": [
+			"0.0.1"
+		],
+		"@mbg_celle2": [
+			"1.1.1"
+		],
+		"@mbg_cindercity": [
+			"0.0.1"
+		],
+		"@mbg_gen_afr_buildings": [
+			"0.0.1"
+		],
+		"@mbg_kellu": [
+			"0.0.1"
+		],
+		"@mbg_killhouses": [
+			"0.0.1"
+		],
+		"@mbg_killhouses_a3": [
+			"1.0.1"
+		],
+		"@mbg_nam": [
+			"0.0.1"
+		],
+		"@mbg_testfield": [
+			"1.0.1"
+		],
+		"@mcagcc_29_palms": [
+			"0.0.1"
+		],
+		"@mcc_sandbox": [
+			"0.0.1"
+		],
+		"@mcc_sandbox_a3": [
+			"0.4.2",
+			"0.4.3"
+		],
+		"@mcn_aliabad": [
+			"1.1.1"
+		],
+		"@mcn_hazarkot": [
+			"1.0.1"
+		],
+		"@mctierone": [
+			"3.1.1"
+		],
+		"@mdpat_uniform": [
+			"1.0"
+		],
+		"@meaty_reskins_blu": [
+			"1.0"
+		],
+		"@meaty_reskins_ind": [
+			"1.0"
+		],
+		"@meaty_reskins_opfor": [
+			"1.0"
+		],
+		"@mec": [
+			"0.1.1",
+			"0.1.2"
+		],
+		"@mediterranean_operations": [
+			"1.51"
+		],
+		"@mediterranean_operations_mass": [
+			"1.51"
+		],
+		"@mediterranean_operations_nato": [
+			"1.51"
+		],
+		"@mediterranean_operations_sco": [
+			"1.51.1"
+		],
+		"@meu_dusty_vehicles": [
+			"1.0"
+		],
+		"@mi6package": [
+			"0.5"
+		],
+		"@midf_weapons": [
+			"1.10-beta"
+		],
+		"@mig21": [
+			"0.5-beta"
+		],
+		"@mig21_opforpack": [
+			"1.0"
+		],
+		"@mikes": [
+			"1.0"
+		],
+		"@mikes_ak74": [
+			"1.0"
+		],
+		"@mikes_g36c": [
+			"1.0"
+		],
+		"@mikes_hk416d": [
+			"1.0.0.1"
+		],
+		"@mikes_m16a4": [
+			"1.0"
+		],
+		"@mis_buildings2": [
+			"0.1"
+		],
+		"@mis_gulfofaqaba": [
+			"0.1"
+		],
+		"@mitilini": [
+			"1.0.1"
+		],
+		"@mk18_mod1": [
+			"0.2"
+		],
+		"@mk4": [
+			"0.0.2"
+		],
+		"@mlcp": [
+			"1.0",
+			"1.1"
+		],
+		"@mma": [
+			"2.4.1"
+		],
+		"@mma_xeh": [
+			"2.4.1"
+		],
+		"@mpolice": [
+			"1.0.1"
+		],
+		"@mq_9reaper": [
+			"1.0"
+		],
+		"@mrap": [
+			"1.9999"
+		],
+		"@mrb_a3_norumble": [
+			"0.0.1"
+		],
+		"@mrb_a3_voicestop": [
+			"1.4"
+		],
+		"@multicam_pilots": [
+			"1.0"
+		],
+		"@mumblelink": [
+			"3.0-beta"
+		],
+		"@mv22ospreyupdate": [
+			"1.2"
+		],
+		"@mx_desert_camo": [
+			"1.0"
+		],
+		"@namalsk": [
+			"1.15.3",
+			"1.15.4"
+		],
+		"@nap": [
+			"0.2-alpha"
+		],
+		"@napf": [
+			"0.3",
+			"1.0"
+		],
+		"@nato_hellcat": [
+			"1.3"
+		],
+		"@nato_nomex": [
+			"1.1"
+		],
+		"@nato_russian_sf_weapons": [
+			"1.2"
+		],
+		"@nato_strider": [
+			"1.0"
+		],
+		"@natoreplacement": [
+			"0.0.1"
+		],
+		"@nbusmc": [
+			"0.9.1-alpha",
+			"0.10-alpha",
+			"0.10.1-alpha"
+		],
+		"@ned_pack": [
+			"1.0"
+		],
+		"@ngs_capraia": [
+			"0.0.1"
+		],
+		"@nh90": [
+			"1.0"
+		],
+		"@nicosia": [
+			"4.5.1"
+		],
+		"@nimitz": [
+			"0.9.3.10"
+		],
+		"@nod_ah64": [
+			"1.31"
+		],
+		"@nogova_2010": [
+			"7.0.1"
+		],
+		"@noidle": [
+			"3.0"
+		],
+		"@nome_winter": [
+			"1.2.0"
+		],
+		"@nor_units": [
+			"1.0"
+		],
+		"@norrn_rflocc": [
+			"0.5.1"
+		],
+		"@northkorea": [
+			"1.2"
+		],
+		"@nsw_th": [
+			"1.0"
+		],
+		"@nuke": [
+			"1.0"
+		],
+		"@nzf_mcu": [
+			"1.2"
+		],
+		"@nziwasogo": [
+			"0.3"
+		],
+		"@nzx_m1151_misc1": [
+			"1.0"
+		],
+		"@nzx_vehicles": [
+			"0.1"
+		],
+		"@oa_us_army_repl": [
+			"1.3"
+		],
+		"@oac_core": [
+			"0.0.1"
+		],
+		"@oas_arm": [
+			"1.0"
+		],
+		"@oas_baf": [
+			"2.2"
+		],
+		"@ofrp": [
+			"3.2.1"
+		],
+		"@oh_boats": [
+			"1.0"
+		],
+		"@okt_noblur": [
+			"1.60.1"
+		],
+		"@okt_noblura2": [
+			"1.10.1"
+		],
+		"@ons-oa": [
+			"0.5"
+		],
+		"@operation_bulgaria": [
+			"0.95"
+		],
+		"@opx_objects": [
+			"0.0.1"
+		],
+		"@ou_air": [
+			"0.3-beta"
+		],
+		"@outlw_magrepack": [
+			"3.1.0"
+		],
+		"@outlw_moduload": [
+			"0.5.2"
+		],
+		"@outlw_thefourthwall": [
+			"0.7"
+		],
+		"@ovaron": [
+			"0.0.1"
+		],
+		"@ovrmike": [
+			"1.0"
+		],
+		"@p82": [
+			"0.1"
+		],
+		"@p85": [
+			"0.0.2"
+		],
+		"@p85_retex": [
+			"1.3"
+		],
+		"@pacific": [
+			"0.5.1"
+		],
+		"@paf_mi24a": [
+			"0.3"
+		],
+		"@page": [
+			"0.0.1"
+		],
+		"@panthera": [
+			"2.9"
+		],
+		"@pcdf": [
+			"1.8.1"
+		],
+		"@pedagnemod": [
+			"0.1"
+		],
+		"@peral_a-10c": [
+			"0.2.0.1"
+		],
+		"@pistolfied_tracers": [
+			"0.0.1"
+		],
+		"@pla": [
+			"2.5.0.1"
+		],
+		"@plr_bulge": [
+			"1.1.1"
+		],
+		"@plr_mana": [
+			"1.2.1"
+		],
+		"@pmc_51km_desert": [
+			"1.7.1"
+		],
+		"@pmc_rattler": [
+			"1.9.1"
+		],
+		"@pmc_rugen": [
+			"1.3.1"
+		],
+		"@pmc_skybox_remove": [
+			"0.0.1"
+		],
+		"@pmc_somalia": [
+			"0.4.2"
+		],
+		"@pmc_terrain_clutter": [
+			"1.5.2"
+		],
+		"@pmc_terrain_obj": [
+			"1.5.1"
+		],
+		"@pmc_ulah_yuryakh": [
+			"1.0.1"
+		],
+		"@pmt_pwinds": [
+			"1.0"
+		],
+		"@pomi_pmc": [
+			"0.5",
+			"0.6.1"
+		],
+		"@pook_backpacks": [
+			"1.0"
+		],
+		"@pook_m1161": [
+			"0.0.1",
+			"1.2"
+		],
+		"@pook_mv22mg": [
+			"2.0",
+			"2.1"
+		],
+		"@pook_pbr": [
+			"2.2"
+		],
+		"@pook_socr": [
+			"3.0.1"
+		],
+		"@pook_tu95ms": [
+			"1.0"
+		],
+		"@pook_ugv": [
+			"1.1"
+		],
+		"@pr": [
+			"0.16.1"
+		],
+		"@praa_av": [
+			"1.0"
+		],
+		"@pracs": [
+			"0.0.1"
+		],
+		"@prpl_benellim4": [
+			"0.5",
+			"0.6"
+		],
+		"@prpl_famas": [
+			"0.12-beta"
+		],
+		"@pubattleroyale": [
+			"0.1.7",
+			"0.1.8",
+			"0.2.0"
+		],
+		"@pxs_satcom": [
+			"1.51"
+		],
+		"@r3f_armes": [
+			"3.2"
+		],
+		"@r3f_uniformes": [
+			"3.1"
+		],
+		"@rab": [
+			"1.1"
+		],
+		"@ranairwolf": [
+			"1.0"
+		],
+		"@rangers": [
+			"0.0.1"
+		],
+		"@rav_af": [
+			"1.0"
+		],
+		"@rav_lifter_a3": [
+			"1.0.4",
+			"1.0.4.1",
+			"1.0.4.2"
+		],
+		"@razmisc": [
+			"0.0.1"
+		],
+		"@razoreniya": [
+			"0.2.0"
+		],
+		"@rc_hmmwv": [
+			"1.0"
+		],
+		"@rds": [
+			"1.2",
+			"1.3",
+			"1.10",
+			"1.11"
+		],
+		"@rds_staticw_cag": [
+			"1.0.1"
+		],
+		"@rds_tank": [
+			"1.3",
+			"1.10",
+			"1.20"
+		],
+		"@rds_tank_agreessors": [
+			"1.2"
+		],
+		"@rds_tank_sz": [
+			"1.2"
+		],
+		"@realarmor": [
+			"0.0.5-alpha",
+			"0.0.6-alpha",
+			"0.0.6.1-alpha"
+		],
+		"@realsound": [
+			"1.2.1",
+			"1.2.1.1",
+			"1.2.2"
+		],
+		"@realsoundf4": [
+			"1.0-beta"
+		],
+		"@recoilfix": [
+			"1.1"
+		],
+		"@refined_vehicles": [
+			"1.1.2"
+		],
+		"@refined_vehicles_alt": [
+			"1.1.2"
+		],
+		"@rev_mod": [
+			"0.7.3-beta"
+		],
+		"@rev_mod_belg": [
+			"0.7.3-beta"
+		],
+		"@rh_aks": [
+			"1.2"
+		],
+		"@rh_heli_sound": [
+			"0.0.1"
+		],
+		"@rh_hk416": [
+			"1.21.1"
+		],
+		"@rh_m14": [
+			"1.0.0"
+		],
+		"@rh_m4": [
+			"1.11.0"
+		],
+		"@rh_m4_a3": [
+			"1.0.5"
+		],
+		"@rh_mgs": [
+			"1.0.1"
+		],
+		"@rh_mk18": [
+			"1.11.0"
+		],
+		"@rh_pdw": [
+			"1.0.1"
+		],
+		"@rh_pdw_a3": [
+			"1.0.0",
+			"1.0.1"
+		],
+		"@rh_pistol": [
+			"0.0.1"
+		],
+		"@rh_pistol_a3": [
+			"1.1.1"
+		],
+		"@rh_replace": [
+			"1.0"
+		],
+		"@rh_smg": [
+			"1.0.0"
+		],
+		"@rho_junglesf": [
+			"0.0.1"
+		],
+		"@rho_rangers": [
+			"0.0.1"
+		],
+		"@rhs_bmd2": [
+			"1.6.1"
+		],
+		"@rhs_btr70": [
+			"1.0.1"
+		],
+		"@rhs_cargosystem": [
+			"0.6.0"
+		],
+		"@rhs_decals": [
+			"1.3.0"
+		],
+		"@rhs_heavyweapons": [
+			"1.0.0"
+		],
+		"@rhs_ss21": [
+			"0.0.1"
+		],
+		"@rhs_t80": [
+			"1.0.0"
+		],
+		"@rhsmod": [
+			"0.0.1"
+		],
+		"@rki_nogovan": [
+			"1.2.0"
+		],
+		"@rksl": [
+			"0.0.6"
+		],
+		"@rksl_flaresystem": [
+			"2.4"
+		],
+		"@rksl_ilha_marrom": [
+			"0.0.1"
+		],
+		"@rkt_coaler": [
+			"0.0.1"
+		],
+		"@rkt_f15": [
+			"0.0.1"
+		],
+		"@rkt_f4": [
+			"0.0.2"
+		],
+		"@rkt_su33": [
+			"0.2"
+		],
+		"@rkt_weapons": [
+			"0.1"
+		],
+		"@rkttu22m3": [
+			"1.0"
+		],
+		"@rmod": [
+			"1.9.0"
+		],
+		"@rmod2": [
+			"2.1"
+		],
+		"@roc": [
+			"1.1.1"
+		],
+		"@rok_army": [
+			"1.0",
+			"1.1",
+			"1.2"
+		],
+		"@rpr_tgsd": [
+			"0.5.1"
+		],
+		"@rq-11_raven": [
+			"1.6.0"
+		],
+		"@rq-11_raven_ab_a3": [
+			"2.1",
+			"2.1.0.1"
+		],
+		"@rslo": [
+			"1.0.0"
+		],
+		"@rspack_1": [
+			"2.0"
+		],
+		"@rte": [
+			"1.60.0"
+		],
+		"@rube": [
+			"0.1"
+		],
+		"@rug_dsai": [
+			"1.0.2"
+		],
+		"@rus_spet_a3": [
+			"1.1"
+		],
+		"@russianarmourpack": [
+			"8.0"
+		],
+		"@rwco": [
+			"0.1-alpha",
+			"0.2-alpha"
+		],
+		"@rws_ace": [
+			"0.0.1"
+		],
+		"@rws_sounds": [
+			"0.0.1"
+		],
+		"@ryd_fee": [
+			"1.1",
+			"1.11"
+		],
+		"@ryd_hal": [
+			"1.11",
+			"1.12",
+			"1.13",
+			"1.14",
+			"1.15"
+		],
+		"@sa_cbu": [
+			"0.1"
+		],
+		"@sa80ris": [
+			"0.0.1"
+		],
+		"@saa": [
+			"0.2.5",
+			"0.2.6",
+			"0.2.6.1",
+			"0.2.7",
+			"0.2.8",
+			"0.2.9"
+		],
+		"@sacsu33": [
+			"0.2"
+		],
+		"@saf": [
+			"0.9"
+		],
+		"@safety": [
+			"1.0",
+			"1.0.0.1"
+		],
+		"@sakulightfx": [
+			"1.0.1"
+		],
+		"@sakumods": [
+			"4.0"
+		],
+		"@sakunightlights": [
+			"0.0.1"
+		],
+		"@sam_grg": [
+			"0.2"
+		],
+		"@sam_handsignals": [
+			"0.0.1"
+		],
+		"@sam_tisch": [
+			"0.0.1"
+		],
+		"@sands": [
+			"0.1.0"
+		],
+		"@sangin": [
+			"0.0.1"
+		],
+		"@sap_clutter": [
+			"0.0.1"
+		],
+		"@sap_everon": [
+			"0.0.1"
+		],
+		"@sarmat_il76": [
+			"1.0.0"
+		],
+		"@satcom": [
+			"1.0"
+		],
+		"@sbe_acr": [
+			"0.0.1"
+		],
+		"@sbe_army": [
+			"0.5"
+		],
+		"@sbe_sotg": [
+			"0.0.1"
+		],
+		"@sbe_us_army_replacement": [
+			"1.3"
+		],
+		"@sbeocp": [
+			"0.1"
+		],
+		"@sc_custom_faces": [
+			"1.0"
+		],
+		"@scar_lk": [
+			"2.0-beta"
+		],
+		"@schwemlitz": [
+			"1.2.1",
+			"1.4"
+		],
+		"@scmod": [
+			"0.0.1"
+		],
+		"@scopefx": [
+			"1.13.0"
+		],
+		"@scsn": [
+			"1.0"
+		],
+		"@scud": [
+			"0.9"
+		],
+		"@sf": [
+			"1.0"
+		],
+		"@sfp": [
+			"0.3",
+			"0.3.1",
+			"0.3.2",
+			"0.3.3"
+		],
+		"@sfp_islands": [
+			"0.0.1",
+			"0.0.2"
+		],
+		"@sfp_lite_ace": [
+			"0.0.1"
+		],
+		"@sfp_mod": [
+			"1.5"
+		],
+		"@sg_chechenrebels": [
+			"1.5"
+		],
+		"@sg_chechenrebels_repl": [
+			"1.0"
+		],
+		"@sg_gru": [
+			"1.5.1"
+		],
+		"@sg_ira": [
+			"1.0.1"
+		],
+		"@sg_krinkov": [
+			"1.1.1"
+		],
+		"@sg_modern_fsb": [
+			"0.0.1"
+		],
+		"@sg_morpeh": [
+			"0.0.1"
+		],
+		"@sgw_afghan": [
+			"1.2",
+			"1.2.0.1"
+		],
+		"@sgw_csar": [
+			"1.1"
+		],
+		"@sgw_israel": [
+			"0.0.1"
+		],
+		"@sgw_raven": [
+			"1.0-alpha"
+		],
+		"@shm_armament": [
+			"0.3"
+		],
+		"@sigmavehiclepack": [
+			"2.2"
+		],
+		"@sikorsky": [
+			"1.0"
+		],
+		"@six": [
+			"1.5.0"
+		],
+		"@six_aiaktalik": [
+			"0.0.1"
+		],
+		"@six_play_a2": [
+			"0.0.1-alpha"
+		],
+		"@six_play_a3": [
+			"0.0.5-beta"
+		],
+		"@six_play_plugins": [
+			"0.0.3-beta"
+		],
+		"@six_shl": [
+			"0.0.1"
+		],
+		"@six_wtk": [
+			"0.0.1"
+		],
+		"@skel": [
+			"0.0.1"
+		],
+		"@skoda": [
+			"0.0.1"
+		],
+		"@slatts_fim92": [
+			"1.0"
+		],
+		"@slatts_m110": [
+			"1.0"
+		],
+		"@slatts_m136": [
+			"2.0"
+		],
+		"@slatts_rpg18": [
+			"1.0"
+		],
+		"@slts": [
+			"2.0"
+		],
+		"@slts_cg": [
+			"1.0",
+			"2.0"
+		],
+		"@slts_urbanmarine": [
+			"1.0"
+		],
+		"@slx": [
+			"0.0.1"
+		],
+		"@smd_assets": [
+			"1.0"
+		],
+		"@smd_assets_racs_a3": [
+			"1.0"
+		],
+		"@smd_assets_us_a3": [
+			"1.0"
+		],
+		"@smd_assets_vehicles_a3": [
+			"1.0"
+		],
+		"@smd_buildings": [
+			"1.0"
+		],
+		"@smd_sahrani_a2": [
+			"1.1"
+		],
+		"@smd_sahrani_a2_lite": [
+			"1.1"
+		],
+		"@smd_units": [
+			"1.0"
+		],
+		"@smgr": [
+			"1.0"
+		],
+		"@smk": [
+			"0.25.1"
+		],
+		"@smookiean": [
+			"1.1"
+		],
+		"@snr": [
+			"0.0.1"
+		],
+		"@soa": [
+			"0.0.1"
+		],
+		"@soa_ace": [
+			"1.10.0"
+		],
+		"@south_oh58": [
+			"0.0.1"
+		],
+		"@sov_mi17": [
+			"1.2"
+		],
+		"@sowmod": [
+			"1.0.0"
+		],
+		"@sp_pack": [
+			"1.9"
+		],
+		"@speedofsound": [
+			"1.3-beta"
+		],
+		"@speedofsoundv2": [
+			"1.0-rc1"
+		],
+		"@speedradar": [
+			"1.2"
+		],
+		"@spliffz_vehicleactions": [
+			"1.1.1"
+		],
+		"@spritzisland": [
+			"1.1.1"
+		],
+		"@sra_partisans": [
+			"0.0.1"
+		],
+		"@sra_police": [
+			"0.0.1"
+		],
+		"@sra_racs_troops": [
+			"0.0.1"
+		],
+		"@sra_racs_veh": [
+			"0.0.1"
+		],
+		"@sra_sla_troops": [
+			"0.0.1",
+			"1.2"
+		],
+		"@sra_sla_veh": [
+			"0.0.1",
+			"1.1"
+		],
+		"@sra_troops": [
+			"1.25",
+			"1.25.0.1"
+		],
+		"@sra_ui": [
+			"1.35.0.1"
+		],
+		"@sra_us_troops": [
+			"0.0.1"
+		],
+		"@ssg69": [
+			"0.0.1"
+		],
+		"@st_acre_volume": [
+			"0.0.1"
+		],
+		"@st_acre_volume_a3": [
+			"0.0.1"
+		],
+		"@st_bunnyhop": [
+			"0.0.1"
+		],
+		"@st_interact": [
+			"0.0.1"
+		],
+		"@st_lb_enhance": [
+			"0.0.1"
+		],
+		"@st_map_autobrightness": [
+			"0.0.1"
+		],
+		"@stalker": [
+			"1.3"
+		],
+		"@status_hud": [
+			"1.5",
+			"1.5.0.1"
+		],
+		"@steadyshot": [
+			"1.0.2"
+		],
+		"@sthud": [
+			"0.0.1",
+			"14.3.2"
+		],
+		"@sthud_a3": [
+			"0.0.1",
+			"14.3.2"
+		],
+		"@sti_a10_a3": [
+			"0.225-beta"
+		],
+		"@sti_a10_ace": [
+			"1.2.1"
+		],
+		"@sti_uh60l": [
+			"1.2.0"
+		],
+		"@sti_weapons": [
+			"1.1.8"
+		],
+		"@stkr_bi": [
+			"1.0.0.2"
+		],
+		"@stmovement": [
+			"0.0.1"
+		],
+		"@strac_us_sappers": [
+			"0.4"
+		],
+		"@strac_us_woodland": [
+			"0.0.1"
+		],
+		"@stv_kuma": [
+			"1.0"
+		],
+		"@stv_marid": [
+			"1.0"
+		],
+		"@stv_warrior": [
+			"1.0"
+		],
+		"@su15": [
+			"2.0"
+		],
+		"@su39_a3": [
+			"1.3"
+		],
+		"@sud_ak74m": [
+			"0.0.1"
+		],
+		"@sud_russians": [
+			"3.51"
+		],
+		"@super_flash": [
+			"0.70"
+		],
+		"@supportcalla3": [
+			"0.0.1"
+		],
+		"@swm_weap": [
+			"0.0.1"
+		],
+		"@t1_silencer_fix": [
+			"1.0"
+		],
+		"@tacbf": [
+			"3.6",
+			"3.7",
+			"3.8.1"
+		],
+		"@tacops": [
+			"1.0",
+			"1.1"
+		],
+		"@tacvision": [
+			"1.0"
+		],
+		"@takistani_army_2035": [
+			"0.9.3"
+		],
+		"@takr_kuz": [
+			"5.0-beta"
+		],
+		"@tao_a3_debugger": [
+			"0.0.1"
+		],
+		"@tao_foldmap": [
+			"1.1.1"
+		],
+		"@tao_foldmap_a3": [
+			"2.5.1"
+		],
+		"@tao_noclosuresounds": [
+			"1.0"
+		],
+		"@tar21camo": [
+			"1.0"
+		],
+		"@task_force_radio": [
+			"0.8.3.2",
+			"0.8.3.3",
+			"0.9.0",
+			"0.9.0.1",
+			"0.9.0.2"
+		],
+		"@tasmania": [
+			"2.0.1"
+		],
+		"@taviana": [
+			"1.0.0"
+		],
+		"@taviana_objects": [
+			"1.0.1"
+		],
+		"@taw_viewdistance": [
+			"1.0"
+		],
+		"@tb_arifle_m16a4": [
+			"0.0.1"
+		],
+		"@ten_fluiddooropening": [
+			"1.0.1-beta"
+		],
+		"@ten_switchweapons": [
+			"1.4.4"
+		],
+		"@tf86_seals": [
+			"1.2.1"
+		],
+		"@tfa": [
+			"0.80",
+			"3.50",
+			"3.75",
+			"3.80"
+		],
+		"@tgw_rah66": [
+			"1.1"
+		],
+		"@tgw_usweaponreplacement": [
+			"1.0"
+		],
+		"@thefew": [
+			"0.0.1"
+		],
+		"@thirsk": [
+			"0.0.1"
+		],
+		"@tigeria": [
+			"0.97.0"
+		],
+		"@tigeria_units": [
+			"1.0.0"
+		],
+		"@tmr": [
+			"0.3.2",
+			"0.3.4",
+			"0.3.5",
+			"0.4",
+			"0.4.1",
+			"4.2",
+			"4.3",
+			"4.3.1"
+		],
+		"@tmr_alt": [
+			"0.1.2",
+			"0.1.3"
+		],
+		"@tmr_cso": [
+			"0.4.3.1"
+		],
+		"@tmt": [
+			"0.1.1",
+			"1.0"
+		],
+		"@tmt_azerbaijan_mod": [
+			"0.1.1"
+		],
+		"@tomcat": [
+			"1.4",
+			"1.4.0.1"
+		],
+		"@torabora": [
+			"0.0.1"
+		],
+		"@tpw_ai_los": [
+			"1.4.0"
+		],
+		"@tpw_houselights": [
+			"1.9.0",
+			"1.9.0.1"
+		],
+		"@tpw_houselights_mp": [
+			"1.9.1"
+		],
+		"@tpw_mods": [
+			"1.38",
+			"1.39",
+			"1.40",
+			"1.41",
+			"1.42",
+			"1.43",
+			"1.44",
+			"1.45",
+			"1.46",
+			"1.47",
+			"1.48",
+			"1.49",
+			"1.50",
+			"1.51",
+			"1.52",
+			"1.53",
+			"1.54",
+			"1.55",
+			"1.56",
+			"1.57",
+			"1.58",
+			"1.59",
+			"1.60",
+			"1.61",
+			"1.62",
+			"1.63",
+			"1.64",
+			"1.65"
+		],
+		"@tpwcas": [
+			"4.5.0",
+			"5.51"
+		],
+		"@tpwcas_a3": [
+			"5.3",
+			"5.5"
+		],
+		"@trfs_msv": [
+			"1.0.1"
+		],
+		"@trfw": [
+			"0.0.1"
+		],
+		"@tri": [
+			"0.0.1",
+			"1.1"
+		],
+		"@tri_weapons": [
+			"1.2.2"
+		],
+		"@tri_wheeled": [
+			"1.0"
+		],
+		"@trinity": [
+			"0.0.1"
+		],
+		"@tropica": [
+			"0.9.1"
+		],
+		"@trrw": [
+			"0.0.1"
+		],
+		"@trtv": [
+			"0.0.1"
+		],
+		"@trwv": [
+			"0.0.1"
+		],
+		"@tss": [
+			"0.3"
+		],
+		"@tss_nametag": [
+			"0.6"
+		],
+		"@ttk_m113": [
+			"1.1"
+		],
+		"@tup": [
+			"1.1.1"
+		],
+		"@two_ligths_beam": [
+			"1.0"
+		],
+		"@tyco_usmc": [
+			"1.0"
+		],
+		"@u100": [
+			"0.6.16",
+			"0.6.17",
+			"0.6.18",
+			"0.6.19"
+		],
+		"@ugaf": [
+			"1.0",
+			"1.0.1",
+			"1.2",
+			"1.3",
+			"1.3.0.1",
+			"1.4",
+			"1.4.1"
+		],
+		"@uk_pack": [
+			"1.1.0.1"
+		],
+		"@uk_sftg": [
+			"1.1.1"
+		],
+		"@uk_sftg_a3": [
+			"1.2"
+		],
+		"@ukf_challenger2": [
+			"1.1"
+		],
+		"@ukf_landrovers": [
+			"1.1"
+		],
+		"@ukf_misc": [
+			"1.12"
+		],
+		"@ukf_shared": [
+			"1.12"
+		],
+		"@ukf_ukweps": [
+			"2.0.0",
+			"2.1"
+		],
+		"@ukf_ukweps_ace": [
+			"2.0.1",
+			"2.1"
+		],
+		"@ul": [
+			"1.0"
+		],
+		"@unlock_mod": [
+			"1.0.0"
+		],
+		"@unlocked_uniforms": [
+			"1.0",
+			"1.0.2",
+			"1.0.3"
+		],
+		"@uns": [
+			"2.5.0"
+		],
+		"@uns_ace_compact": [
+			"2.5.0"
+		],
+		"@us_armyspecialforces": [
+			"1.5"
+		],
+		"@us_military_mod": [
+			"0.82"
+		],
+		"@us_pack": [
+			"1.6",
+			"1.7.0.1",
+			"1.8",
+			"1.9"
+		],
+		"@us_rangers": [
+			"2.0.0"
+		],
+		"@us_rangers_ace": [
+			"2.0.1"
+		],
+		"@us_seal": [
+			"2.1.0"
+		],
+		"@us_seal_ace": [
+			"2.1.1"
+		],
+		"@us_tf_knight": [
+			"1.0"
+		],
+		"@usaf": [
+			"0.1-alpha"
+		],
+		"@usav": [
+			"1.0"
+		],
+		"@usec_ch53": [
+			"6.1"
+		],
+		"@usec_halo": [
+			"0.0.1"
+		],
+		"@usec_oilrig": [
+			"0.0.1"
+		],
+		"@usec_weapons": [
+			"0.0.1"
+		],
+		"@usmc_a3": [
+			"1.0",
+			"1.1"
+		],
+		"@usweapons": [
+			"1.0",
+			"1.0.0.1"
+		],
+		"@vaultmod": [
+			"0.4"
+		],
+		"@vfai": [
+			"0.0.1"
+		],
+		"@vil_characters": [
+			"0.1"
+		],
+		"@vilas_aks": [
+			"0.0.1"
+		],
+		"@vilas_cpl": [
+			"0.0.1",
+			"5.0"
+		],
+		"@vilas_cpl_bonus": [
+			"1.0"
+		],
+		"@vilas_npl": [
+			"0.0.1",
+			"0.0.2"
+		],
+		"@vilas_wwp": [
+			"0.0.1",
+			"0.0.2",
+			"0.0.3"
+		],
+		"@vk_markers": [
+			"0.23.1"
+		],
+		"@vk_markers_a3": [
+			"3.0.2",
+			"3.0.3"
+		],
+		"@vme_pla": [
+			"0.0.1",
+			"0.0.2"
+		],
+		"@vop_sound": [
+			"2.3.1"
+		],
+		"@vostok": [
+			"0.0.1"
+		],
+		"@vqi_halo": [
+			"0.1-beta",
+			"1.0"
+		],
+		"@vte": [
+			"1.5.25"
+		],
+		"@vte_preview": [
+			"0.0.1"
+		],
+		"@vtn": [
+			"0.26",
+			"0.27"
+		],
+		"@vts_ballistic": [
+			"0.1"
+		],
+		"@vts_duckhunt": [
+			"1.0"
+		],
+		"@vts_gesture": [
+			"0.4",
+			"0.4.0.1"
+		],
+		"@vts_sticky": [
+			"1.0"
+		],
+		"@vts_weaponresting": [
+			"0.0.1",
+			"0.4",
+			"0.5"
+		],
+		"@vz_cms": [
+			"1.1",
+			"1.3.1",
+			"2.0"
+		],
+		"@wap": [
+			"1.2",
+			"1.3"
+		],
+		"@warx_a3": [
+			"0.9"
+		],
+		"@wasteland_client": [
+			"1.1.1"
+		],
+		"@wingsrussia": [
+			"1.0",
+			"1.0.0.1"
+		],
+		"@wintercamos": [
+			"0.0.1"
+		],
+		"@wop_a2": [
+			"0.0.1"
+		],
+		"@wop_toh": [
+			"0.0.1"
+		],
+		"@worldmarkers": [
+			"1.1"
+		],
+		"@wr5_m14": [
+			"1.0"
+		],
+		"@ww_aicover": [
+			"1.56"
+		],
+		"@ww_aimenu": [
+			"2.15"
+		],
+		"@xactionui": [
+			"1.0.1",
+			"1.0.2"
+		],
+		"@xenmapl": [
+			"1.0",
+			"1.0.1"
+		],
+		"@xeventsystem": [
+			"1.0"
+		],
+		"@xlib": [
+			"0.1-beta",
+			"0.1.1-beta",
+			"0.1.2-beta",
+			"0.1.3-beta",
+			"0.1.4-beta"
+		],
+		"@xmedsys": [
+			"0.3-beta",
+			"0.3.1-beta",
+			"0.3.2-beta",
+			"0.3.3-beta",
+			"0.3.4-beta",
+			"0.3.5-beta"
+		],
+		"@xtacticalhud": [
+			"1.0.0",
+			"1.0.0.1",
+			"1.1.0"
+		],
+		"@yapal": [
+			"1.0.1"
+		],
+		"@yup_hh60j": [
+			"1.3.0"
+		],
+		"@yup_seahawks": [
+			"0.0.1"
+		],
+		"@yup_uh60": [
+			"1.3.1"
+		],
+		"@zeu_ai": [
+			"0.0.1"
+		],
+		"@zeu_ai_ace": [
+			"0.0.1"
+		],
+		"@zodlandnav": [
+			"1.2"
+		],
+		"acrlite": [
+			"0.0.1"
+		],
+		"arma2-free": [
+			"1.11.0.86749"
+		],
+		"beta_a2": [
+			"1.11.0.86734"
+		],
+		"beta_oa": [
+			"1.62.0.103418",
+			"1.62.0.103718",
+			"1.62.0.104648-alpha",
+			"1.62.0.106400-alpha",
+			"1.62.0.108074-alpha",
+			"1.63.0.112555-alpha"
+		],
+		"beta_toh": [
+			"1.6.0.97057"
+		],
+		"pmc_skybox": [
+			"0.0.1"
+		],
+		"rhsmod": [
+			"0.1.6"
+		]
+	},
+	"packages_content_types": {
+		
+	}
+}

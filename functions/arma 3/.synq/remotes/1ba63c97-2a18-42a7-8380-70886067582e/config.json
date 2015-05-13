@@ -1,0 +1,14 @@
+{
+	"name": "SIX Networks - ARMA",
+	"uuid": "1ba63c97-2a18-42a7-8380-70886067582e",
+	"mode": 0,
+	"use_versioned_package_folders": false,
+	"remotes": {
+		"1ba63c97-2a18-42a7-8380-70886067582e": [
+			"zsync://c1-de.sixmirror.com/synq/1ba63c97-2a18-42a7-8380-70886067582e",
+			"rsync://c1-de.sixmirror.com/synq/1ba63c97-2a18-42a7-8380-70886067582e",
+			"zsync://c1-us.sixmirror.com/synq/1ba63c97-2a18-42a7-8380-70886067582e",
+			"rsync://c1-us.sixmirror.com/synq/1ba63c97-2a18-42a7-8380-70886067582e"
+		]
+	}
+}

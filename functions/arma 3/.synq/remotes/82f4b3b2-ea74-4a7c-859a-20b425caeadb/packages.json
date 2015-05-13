@@ -1,0 +1,285 @@
+{
+	"packages": {
+		"a_whole_air_attack_on_altis": [
+			"0.1"
+		],
+		"alive_foursome_mp_showcase": [
+			"1.0",
+			"1.96.5"
+		],
+		"alive_foursome_sp_showcase": [
+			"1.0"
+		],
+		"alive_scenario_east_vs_west_vs_independent": [
+			"0.1"
+		],
+		"becti-97_fragged_nation_stratis_warfare": [
+			"0.1"
+		],
+		"blitzkrieg_random_mode": [
+			"1.0",
+			"2.1",
+			"2.2"
+		],
+		"btc_war_storm": [
+			"0.1.1"
+		],
+		"chernarusisalivechernarus": [
+			"0.1"
+		],
+		"dawn_of_the_messenger": [
+			"1.0"
+		],
+		"dyn_co_08_whole_lotta_altis": [
+			"1.5",
+			"1.51",
+			"1.52",
+			"1.53",
+			"1.54",
+			"1.55",
+			"1.56",
+			"1.57",
+			"1.58",
+			"1.59",
+			"1.60",
+			"1.61",
+			"1.62",
+			"1.63",
+			"1.64",
+			"1.65",
+			"1.66",
+			"1.67",
+			"1.68",
+			"1.69",
+			"1.70",
+			"1.71",
+			"1.72",
+			"1.73",
+			"1.74",
+			"1.75",
+			"1.76",
+			"1.77",
+			"1.78",
+			"1.79",
+			"1.80",
+			"1.81",
+			"1.82",
+			"1.83",
+			"1.841",
+			"1.842",
+			"1.843",
+			"1.844",
+			"1.845",
+			"1.846",
+			"1.847",
+			"1.848",
+			"1.849",
+			"1.850",
+			"1.851",
+			"1.852",
+			"1.853",
+			"1.854",
+			"1.855",
+			"1.856",
+			"1.857",
+			"1.858"
+		],
+		"dyn_co_24_whole_lotta_altis": [
+			"1.55",
+			"1.56",
+			"1.57",
+			"1.58",
+			"1.59",
+			"1.60",
+			"1.61",
+			"1.62",
+			"1.63",
+			"1.64",
+			"1.65",
+			"1.66",
+			"1.67",
+			"1.68",
+			"1.69",
+			"1.70",
+			"1.71",
+			"1.72",
+			"1.73",
+			"1.74",
+			"1.75",
+			"1.76",
+			"1.77",
+			"1.78",
+			"1.79",
+			"1.80",
+			"1.81",
+			"1.82",
+			"1.83",
+			"1.841",
+			"1.842",
+			"1.843",
+			"1.844",
+			"1.845",
+			"1.846",
+			"1.847",
+			"1.848",
+			"1.849",
+			"1.850",
+			"1.851",
+			"1.852",
+			"1.853",
+			"1.854",
+			"1.855",
+			"1.856",
+			"1.857",
+			"1.858"
+		],
+		"escape_chernarus_a2": [
+			"0.1"
+		],
+		"escape_on_chernarus": [
+			"1.80"
+		],
+		"forward_edge_of_the_battlearea": [
+			"1.27",
+			"1.28",
+			"1.31",
+			"1.36"
+		],
+		"grand_theft_kuebel": [
+			"1.0"
+		],
+		"high_value_target_escort": [
+			"0.1",
+			"0.2"
+		],
+		"lms_nightshift": [
+			"0.3"
+		],
+		"modern_warfare_missions_1": [
+			"0.1"
+		],
+		"morning_wipeout": [
+			"0.1"
+		],
+		"operation_modern_warfare": [
+			"0.1.2",
+			"0.1.30"
+		],
+		"operation_zargabad": [
+			"0.2.1"
+		],
+		"sting_like_a_bee": [
+			"22.0"
+		],
+		"strategy": [
+			"0.7"
+		],
+		"telos_sweep": [
+			"16.0"
+		],
+		"the_druglord_by_minuz": [
+			"0.1"
+		],
+		"the_syrta_slayer": [
+			"23.0"
+		],
+		"whole_lotta_altis_sp": [
+			"1.0",
+			"1.2",
+			"1.4",
+			"1.41",
+			"1.42",
+			"1.43",
+			"1.44",
+			"1.441",
+			"1.443",
+			"1.4431",
+			"1.4444",
+			"1.5000",
+			"1.5001",
+			"1.5500",
+			"1.5600",
+			"1.5700",
+			"1.5710",
+			"1.6000",
+			"1.6001",
+			"1.6002",
+			"1.6100",
+			"1.6300",
+			"1.6400",
+			"1.6401",
+			"1.6402",
+			"1.6403",
+			"1.6404",
+			"1.6405",
+			"1.6406",
+			"1.6407",
+			"1.6408",
+			"1.6500",
+			"1.6600",
+			"1.6700",
+			"1.6710",
+			"1.6800",
+			"1.6810",
+			"1.6900",
+			"1.7150",
+			"1.7160",
+			"1.7170",
+			"1.7200",
+			"1.7300",
+			"1.7400",
+			"1.7500",
+			"1.7501",
+			"1.7502",
+			"1.7600",
+			"1.7601",
+			"1.7650",
+			"1.7651",
+			"1.7652",
+			"1.7700",
+			"1.7701",
+			"1.7702",
+			"1.7801",
+			"1.7900",
+			"1.7901",
+			"1.7902",
+			"1.7903",
+			"1.7904"
+		]
+	},
+	"packages_content_types": {
+		"Arma2Mission": [
+			"escape_on_chernarus",
+			"modern_warfare_missions_1",
+			"operation_modern_warfare",
+			"operation_zargabad",
+			"strategy"
+		],
+		"Arma3Mission": [
+			"a_whole_air_attack_on_altis",
+			"alive_foursome_mp_showcase",
+			"alive_foursome_sp_showcase",
+			"alive_scenario_east_vs_west_vs_independent",
+			"becti-97_fragged_nation_stratis_warfare",
+			"blitzkrieg_random_mode",
+			"btc_war_storm",
+			"chernarusisalivechernarus",
+			"dyn_co_08_whole_lotta_altis",
+			"dyn_co_24_whole_lotta_altis",
+			"escape_chernarus_a2",
+			"forward_edge_of_the_battlearea",
+			"high_value_target_escort",
+			"lms_nightshift",
+			"morning_wipeout",
+			"sting_like_a_bee",
+			"telos_sweep",
+			"the_druglord_by_minuz",
+			"the_syrta_slayer",
+			"whole_lotta_altis_sp"
+		],
+		"IronFrontMission": [
+			"dawn_of_the_messenger",
+			"grand_theft_kuebel"
+		]
+	}
+}

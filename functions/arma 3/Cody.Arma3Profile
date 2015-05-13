@@ -1,0 +1,133 @@
+version=1;
+blood=1;
+singleVoice=0;
+anisoFilter=12;
+textureQuality=3;
+shadowQuality=4;
+tripleHead=0;
+useExtendetInfoType=1;
+class Difficulties
+{
+	class recruit
+	{
+		class Flags
+		{
+			Armor=1;
+			FriendlyTag=1;
+			EnemyTag=0;
+			MineTag=1;
+			HUD=1;
+			HUDPerm=1;
+			HUDWp=1;
+			HUDWpPerm=1;
+			HUDGroupInfo=1;
+			StanceIndicator=1;
+			AutoSpot=1;
+			Map=1;
+			WeaponCursor=1;
+			AutoGuideAT=1;
+			ClockIndicator=1;
+			3rdPersonView=1;
+			CameraShake=0;
+			UnlimitedSaves=1;
+			DeathMessages=1;
+			NetStats=1;
+			VonID=1;
+			ExtendetInfoType=1;
+		};
+		aiLevelPreset=0;
+	};
+	class regular
+	{
+		class Flags
+		{
+			Armor=1;
+			FriendlyTag=1;
+			EnemyTag=0;
+			MineTag=1;
+			HUD=1;
+			HUDPerm=1;
+			HUDWp=1;
+			HUDWpPerm=1;
+			HUDGroupInfo=1;
+			StanceIndicator=1;
+			AutoSpot=1;
+			Map=1;
+			WeaponCursor=1;
+			AutoGuideAT=1;
+			ClockIndicator=1;
+			3rdPersonView=1;
+			CameraShake=1;
+			UnlimitedSaves=0;
+			DeathMessages=1;
+			NetStats=1;
+			VonID=1;
+			ExtendetInfoType=1;
+		};
+		aiLevelPreset=1;
+	};
+	class veteran
+	{
+		class Flags
+		{
+			HUD=1;
+			HUDWp=1;
+			HUDWpPerm=1;
+			HUDGroupInfo=1;
+			StanceIndicator=1;
+			AutoSpot=1;
+			WeaponCursor=1;
+			ClockIndicator=1;
+			3rdPersonView=1;
+			CameraShake=1;
+			DeathMessages=1;
+			NetStats=1;
+			VonID=0;
+			ExtendetInfoType=0;
+		};
+		aiLevelPreset=2;
+	};
+	class mercenary
+	{
+		class Flags
+		{
+			HUD=1;
+			AutoSpot=0;
+			WeaponCursor=1;
+			DeathMessages=1;
+			NetStats=1;
+			VonID=0;
+		};
+		aiLevelPreset=2;
+	};
+};
+headBob=1;
+adaptiveCrosshair=1;
+showTitles=1;
+useImperialSystem=0;
+vehicleFreelook=0;
+useIncapacitatedState=1;
+tutorialHints=1;
+streamFriendlyUI=0;
+instructorFigure=1;
+showRadio=1;
+maxSamplesPlayed=96;
+gamma=1;
+brightness=1;
+fovTop=0.75;
+fovLeft=1.2;
+uiTopLeftX=0.27083334;
+uiTopLeftY=0.22499999;
+uiBottomRightX=0.72916663;
+uiBottomRightY=0.77499998;
+IGUIScale=0.55000001;
+sceneComplexity=750000;
+shadowZDistance=100;
+viewDistance=3000;
+preferredObjectViewDistance=2600;
+terrainGrid=12.5;
+volumeCD=10;
+volumeFX=10;
+volumeSpeech=10;
+volumeVoN=10;
+vonRecThreshold=0.029999999;

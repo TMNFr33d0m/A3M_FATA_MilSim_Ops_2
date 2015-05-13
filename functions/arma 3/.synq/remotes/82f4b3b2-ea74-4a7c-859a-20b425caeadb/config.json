@@ -1,0 +1,13 @@
+{
+	"uuid": "82f4b3b2-ea74-4a7c-859a-20b425caeadb",
+	"mode": 0,
+	"use_versioned_package_folders": false,
+	"remotes": {
+		"82f4b3b2-ea74-4a7c-859a-20b425caeadb": [
+			"zsync://c1-de.sixmirror.com/synq/82f4b3b2-ea74-4a7c-859a-20b425caeadb",
+			"rsync://c1-de.sixmirror.com/synq/82f4b3b2-ea74-4a7c-859a-20b425caeadb",
+			"zsync://c1-us.sixmirror.com/synq/82f4b3b2-ea74-4a7c-859a-20b425caeadb",
+			"rsync://c1-us.sixmirror.com/synq/82f4b3b2-ea74-4a7c-859a-20b425caeadb"
+		]
+	}
+}
