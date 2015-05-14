@@ -5468,7 +5468,7 @@ class Mission
 	};
 	class Markers
 	{
-		items=13;
+		items=14;
 		class Item0
 		{
 			position[]={2206.4482,20.104599,322.79907};
@@ -5578,6 +5578,13 @@ class Mission
 			name="SYFT";
 			text="Supply Yard";
 			type="mil_pickup";
+		};
+		class Item13
+		{
+			position[]={2150.158,20.104599,258.97339};
+			name="Respawn_West";
+			text="FOB Loyalty";
+			type="Empty";
 		};
 	};
 	class Sensors
